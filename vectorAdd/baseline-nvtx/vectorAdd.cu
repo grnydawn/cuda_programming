@@ -30,7 +30,7 @@ int main() {
   nvtxMark("Starting main...");
 
   // Array size of 2^16 (65536 elements)
-  const int N = 1 << 16;
+  const int N = 1 << 20;
   const size_t bytes = sizeof(int) * N;
 
   // Vectors for holding the host-side (CPU-side) data
