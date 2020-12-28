@@ -13,7 +13,8 @@ fi
 #$ jsrun -n1 hostname
 #a35n03
 
-module load pgi
-module load cuda
-module load nsight-systems
-module load nsight-compute
+# module commands
+#module load pgi
+#module load cuda
+#module load nsight-systems
+#module load nsight-compute
