@@ -1,8 +1,6 @@
 GPGPU Programming with CUDA on Summit system of Oak Ridge National Laboratory
 =====================================================================================
 
-GPGPU Programming with CUDA
-=====================================================================================
 This repository is a github fork of cuda_programming by CoffeeBeforeArch. This fork repository contains additional branches
 that tailored the original content by CoffeeBeforeArch for GPU tutorial for multiple GPU systems.
 
